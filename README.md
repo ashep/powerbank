@@ -1,7 +1,7 @@
 # Powerbank
 
 
-![3D Model](img/05.png)
+![3D Model](img/05.jpg)
 
 
 ## Description  
